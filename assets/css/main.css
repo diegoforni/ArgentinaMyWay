@@ -4025,7 +4025,3 @@ input, select, textarea {
 .contain{
 	object-fit: contain;
 }
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-	background-color: black; /* Change to your desired color */
-}
